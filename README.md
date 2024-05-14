@@ -3,7 +3,7 @@
 
 Esse projeto é para anotar as principais informações do bootcamp santander de back end java
 
-## 📂 versionamento de dadcódigo pelo git e github
+## 📂 versionamento de código pelo git e github
 
 ### oque é?
 - É um controle de  versão de arquivos de código
